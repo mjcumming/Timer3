@@ -2,7 +2,7 @@
 ##### *The python package for a timer*
 
 ## *What is Timer3?*
-Timer3 is a free, open-source package for Python 3.
+Timer3 is a free package for Python 3.
 
 ## How do I *get* Timer3?
 Open your terminal and type in the following:
